@@ -2,49 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94e820ad-7104-4ffc-90c0-df4a8f8c43b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.storybook/addons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.storybook/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/OpenSans-Light-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/OpenSans-Light-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/OpenSans-Light-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/OpenSans-Light-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/OpenSans-Regular-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/OpenSans-Regular-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/OpenSans-Regular-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/font/OpenSans-Regular-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icon/percolate.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icon/percolate.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icon/percolate.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icon/percolate.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icon/todos.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icon/todos.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icon/todos.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icon/todos.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__snapshots__/storybook.test.js.snap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/InboxScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/InboxScreen.stories.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Task.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Task.stories.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TaskList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TaskList.stories.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TaskList.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/redux.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/storybook.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.storybook/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.storybook/config.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="SHOW_TAGS" value="true" />
+    <option name="ONTO" value="refs/heads/master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -119,6 +88,7 @@
       <workItem from="1567017115650" duration="1970000" />
       <workItem from="1567019115658" duration="2702000" />
       <workItem from="1567022485635" duration="36000" />
+      <workItem from="1567022545456" duration="1401000" />
     </task>
     <servers />
   </component>
