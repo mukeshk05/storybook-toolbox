@@ -2,8 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94e820ad-7104-4ffc-90c0-df4a8f8c43b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/style/base.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/components/lists-show.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/form.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/icon.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/index.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/link.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/list-items.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/message.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/reset.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/util/animation.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/util/fontface.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/util/helpers.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/util/text.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/util/typography.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/util/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/utils.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.storybook/addons.js" beforeDir="false" afterPath="$PROJECT_DIR$/.storybook/addons.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.storybook/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.storybook/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icon/percolate.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/icon/percolate.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icon/todos.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/icon/todos.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__snapshots__/storybook.test.js.snap" beforeDir="false" afterPath="$PROJECT_DIR$/src/__snapshots__/storybook.test.js.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/InboxScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/InboxScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/InboxScreen.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/InboxScreen.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Task.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Task.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Task.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Task.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TaskList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TaskList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TaskList.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TaskList.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TaskList.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TaskList.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/redux.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/redux.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/storybook.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/storybook.test.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

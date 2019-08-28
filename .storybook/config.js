@@ -1,8 +1,6 @@
-// .storybook/config.js
-
 import { configure } from '@storybook/react';
 import requireContext from 'require-context.macro';
-import 'storybook-chromatic';
+import 'react-chromatic/storybook-addon';
 
 import '../src/index.css';
 

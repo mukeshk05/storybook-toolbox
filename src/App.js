@@ -7,9 +7,9 @@ import InboxScreen from './components/InboxScreen';
 class App extends Component {
   render() {
     return (
-        <Provider store={store}>
-          <InboxScreen />
-        </Provider>
+      <Provider store={store}>
+        <InboxScreen />
+      </Provider>
     );
   }
 }
