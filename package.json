@@ -35,8 +35,7 @@
     "build-css": "lessc src/style/index.less src/index.css",
     "watch-css": "npm run build-css && grunt",
     "storybook": "start-storybook -p 9009 -s public",
-    "build-storybook": "build-storybook -s public",
-    "chromatic": "CHROMATIC_APP_CODE=u12zzd8atw chromatic test"
+    "build-storybook": "build-storybook -s public"
   },
   "eslintConfig": {
     "extends": "react-app"
