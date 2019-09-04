@@ -7,7 +7,8 @@
     "react-dom": "^16.8.3",
     "react-redux": "^5.0.7",
     "react-scripts": "^3.1.1",
-    "redux": "^4.0.1"
+    "redux": "^4.0.1",
+    "storybook-chromatic": "^2.2.2"
   },
   "devDependencies": {
     "@babel/core": "^7.3.4",
@@ -22,8 +23,8 @@
     "grunt-contrib-less": "^1.4.0",
     "grunt-contrib-watch": "^1.0.0",
     "less": "^2.7.1",
-    "react-test-renderer": "^16.8.3",
     "react-chromatic": "^0.8.1",
+    "react-test-renderer": "^16.8.3",
     "require-context.macro": "^1.0.4"
   },
   "scripts": {
