@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/storybook-toolbox/main.css",
+    "main.js": "/storybook-toolbox/main.27548f81f7e290b4083f.bundle.js",
+    "main.css.map": "/storybook-toolbox/main.css.map",
+    "main.js.map": "/storybook-toolbox/main.27548f81f7e290b4083f.bundle.js.map",
+    "runtime~main.js": "/storybook-toolbox/runtime~main.27548f81f7e290b4083f.bundle.js",
+    "runtime~main.js.map": "/storybook-toolbox/runtime~main.27548f81f7e290b4083f.bundle.js.map",
+    "vendors~main.js": "/storybook-toolbox/vendors~main.27548f81f7e290b4083f.bundle.js",
+    "vendors~main.js.map": "/storybook-toolbox/vendors~main.27548f81f7e290b4083f.bundle.js.map",
+    "iframe.html": "/storybook-toolbox/iframe.html",
+    "precache-manifest.60233b0d42ba4e6bc8ab36af738b0e94.js": "/storybook-toolbox/precache-manifest.60233b0d42ba4e6bc8ab36af738b0e94.js",
+    "service-worker.js": "/storybook-toolbox/service-worker.js"
+  }
+}
