@@ -36,12 +36,11 @@
     "test": "react-scripts test",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-	"deploy-storybook": "storybook-to-ghpages",
-    "eject": "react-scripts eject",
+	"eject": "react-scripts eject",
     "build-css": "lessc src/style/index.less src/index.css",
     "watch-css": "npm run build-css && grunt",
     "storybook": "start-storybook -p 9009 -s public",
-    "build-storybook": "build-storybook -s public"
+    "build-storybook": "build-storybook -c .storybook"
   },
   "eslintConfig": {
     "extends": "react-app"
